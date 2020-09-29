@@ -1,0 +1,44 @@
+body{
+    font-family: 'Playball', cursive;
+}
+.header_div{
+    width: 100%;
+    text-align: left;
+}
+.header_div h2{
+    display: inline;
+}
+.header_div button{
+    float: right;
+    font-size: 18px;
+}
+.mario_big_head{
+    width: 300px;
+    height: 300px;
+}
+.mario{
+    background-color: #C80000;
+}
+.start{
+    font-size: 17px;
+}
+#status{
+    font-size: 17px;
+}
+.footer{
+    background-color: rgb(0, 255, 170);
+    line-height: 2;
+    margin: 0px;
+    position: sticky;
+}
+.modal-dialog{
+    width: 90%;
+}
+.modal_header{
+    background-color: rgb(241, 241, 241);
+}
+video{
+    background: url(game_console.png);
+    background-size: cover;
+    background-position: center;
+}
